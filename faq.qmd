@@ -1,6 +1,9 @@
 
 # FAQ {.unnumbered}
 
+* Q: I have a project idea, proposal, or plan and need to decide on specific data to access. How do I get started with that?
+  * A: Starter Kits give guidance on using specific data, but to learn what is available overall in order to find the right Starter Kit, a good starting point is the A2CPS "For Researchers" section (see https://a2cps.org/researchers/data-releases/).
+
 * Q: After reviewing the kit, I still have questions. Who should I contact?
   * A: Each kit is maintained by a different member of the DIRC, and their contact information is listed at the end of the kit. Please use the channels listed in the kit
 
